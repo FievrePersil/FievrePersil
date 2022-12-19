@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FievrePersil
-- 👀 I’m interested in backend dev
-- 🌱 I’m currently learning Java and Python
-- 📫 Contact me on tarek-tiko@live.fr
+- 👋 Hi, I’m Tarek Gharbi
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently learning React JS and Django
+- 📫 Contact me on tarekgharbi1997@gmail.com
 
 <!---
 FievrePersil/FievrePersil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
